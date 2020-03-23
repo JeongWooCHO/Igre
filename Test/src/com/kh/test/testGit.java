@@ -7,6 +7,7 @@ public class testGit {
 System.out.println("테스트 깃.");
 System.out.println("테스트 깃2.");
 System.out.println("테스트 깃3.");
+System.out.println("수웩");
 	}
 
 }
