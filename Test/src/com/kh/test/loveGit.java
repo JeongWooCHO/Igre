@@ -6,6 +6,7 @@ public class loveGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("Love");
+		System.out.println("Test");
 	}
 
 }
