@@ -8,6 +8,7 @@ public class loveGit {
 		System.out.println("Love");
 		System.out.println("Test");
 		System.out.println("END");
+		System.out.println("ReStart");
 	}
 
 }
